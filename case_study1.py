@@ -1,6 +1,3 @@
- #Case Study: Automatic Handwritten Digit Recognition for Bank Cheques
-# Using Multi-Layer Neural Network on MNIST Dataset
-
 import tensorflow as tf
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras.models import Sequential
